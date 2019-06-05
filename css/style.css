@@ -11,6 +11,8 @@ background-color:#ffffff;
 
 .navbar{
 background-color:#ffffff; 
+position: fixed;
+top:100%;
 }
 
 .navbar-nav{
