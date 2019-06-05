@@ -3,7 +3,7 @@ margin: 0 auto;
 overflow-x: hidden;
 }
 
-.navbar-expand-lg{
+#navbar-expand-lg{
 position: fixed;
 top:100%;
 }
