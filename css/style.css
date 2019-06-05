@@ -3,10 +3,9 @@ margin: 0 auto;
 overflow-x: hidden;
 }
 
-.navbar-expand-lg{
+nav.navbar-expand-lg{
 position: fixed;
 top:50%;
-z-index-1;
 }
 
 .header{
