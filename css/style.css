@@ -3,11 +3,6 @@ margin: 0 auto;
 overflow-x: hidden;
 }
 
-nav.navbar-expand-lg{
-position: fixed;
-top:50%;
-}
-
 .header{
 width: 100vw;
 height: auto;
